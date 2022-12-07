@@ -35,6 +35,7 @@ conda env create -f fragcl.yaml
 
 ## Dataset Preprocessing
 First of all, place your SMILES file at **datasets/smiles.csv**
+
 For data preprocessing, please use the following commands:
 ```
 cd src_classification
@@ -49,6 +50,6 @@ cd scripts_classification
 bash submit_pretraining_fragcl.sh
 ```
 
-Then, the model will be saved at **output** folder
+Then, the model will be saved at **output** folder.
 
 
