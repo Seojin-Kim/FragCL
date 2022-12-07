@@ -1,7 +1,5 @@
 # Instructions
 
-Authors: Shengchao Liu, Hanchen Wang, Weiyang Liu, Joan Lasenby, Hongyu Guo, Jian Tang
-
 ## Environments
 Install packages under conda env
 ```bash
